@@ -33,7 +33,7 @@
 <br/>
 <a href=""> Single Vendor Ecommerce </a>
 <br/>
-<a href=""> Single Vendor Ecommerce </a>
+<a href=""> Dynamic Professional Software Company Website </a>
 <br/>
 <a href=""> Tech Blog </a>
 
