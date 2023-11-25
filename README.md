@@ -25,7 +25,7 @@
 
 <h1> MY ALL PROJECTS </h1>
 <br/>
-<a href=""> Dynamic Portfolio For Graphic Designers </a>
+<a href="https://github.com/sofikul100/Dynamic-Portfolio"> Dynamic Portfolio For Graphic Designers </a>
 <br/>
 <a href=""> Dynamic GYM Trainer Website </a>
 <br/>
@@ -35,6 +35,6 @@
 <br/>
 <a href="https://www.creativesoftltd.com"> Dynamic Professional Software Company Website </a>
 <br/>
-<a href=""> Tech Blog </a>
+<a href="https://github.com/sofikul100/Tech-Blog"> Tech Blog </a>
 
 
