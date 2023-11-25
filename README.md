@@ -23,8 +23,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofikul100&show_icons=true&locale=en" alt="sofikul100" /></p>
 
-========= MY ALL PROJECT========
+<h1> MY ALL PROJECTS </h1>
 <br/>
 <a href=""> Dynamic Portfolio For Graphic Designers </a>
 <br/>
 <a href=""> Dynamic GYM Trainer Website </a>
+<br/>
+<a href=""> Inventory Management System </a>
+<br/>
+<a href=""> Single Vendor Ecommerce </a>
+<br/>
+<a href=""> Single Vendor Ecommerce </a>
+<br/>
+<a href=""> Tech Blog </a>
+
+
