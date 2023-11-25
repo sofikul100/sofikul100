@@ -29,7 +29,7 @@
 <br/>
 <a href=""> Dynamic GYM Trainer Website </a>
 <br/>
-<a href=""> Inventory Management System </a>
+<a href="https://github.com/sofikul100/laravel-inventory-management-system"> Inventory Management System </a>
 <br/>
 <a href=""> Single Vendor Ecommerce </a>
 <br/>
