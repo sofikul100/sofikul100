@@ -1,4 +1,4 @@
-![MasterHead]([https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966))
+![MasterHead]([https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ))
 <h1 align="center">Hi 👋, I'm MD Sofikul Islam</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
