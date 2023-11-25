@@ -24,4 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofikul100&show_icons=true&locale=en" alt="sofikul100" /></p>
 
 ========= MY ALL PROJECT========
-1: <a href=""> Dynamic Portfolio For Graphic Designers </a>
+<br/>
+<a href=""> Dynamic Portfolio For Graphic Designers </a>
+<br/>
+<a href=""> Dynamic GYM Trainer Website </a>
